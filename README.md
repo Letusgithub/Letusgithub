@@ -1,23 +1,22 @@
 ![logo](https://github.com/Letusgithub/Letusgithub/blob/main/WhatsApp%20Image%202024-08-11%20at%2016.59.49.jpeg)
+
 <h1 align="center">Hi 👋, I'm Aditya Anand(Simple Boy)</h1>
 <h3 align="center">A dedicated and devoted Software Developer from India</h3>
-
-
-<img align="right" alt="coding"width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40miku.bhushan%2Fmy-interview-experience-with-alphagrep-a13fa4e5e544&psig=AOvVaw0BYe8On1zISs5TFDE9kdMB&ust=1723463122894000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiJ9dHu7IcDFQAAAAAdAAAAABAa">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letusgithub&label=Profile%20views&color=0e75b6&style=flat" alt="letusgithub" /> </p>
 
 - 🔭 I’m currently working on [Real-Life Medical Software](https://github.com/Letusgithub/MedicalSoftware)
 
-- 🌱 I’m currently learning **and Solving Data Structure Algorithms Problems and developing a Project.**
+- 🌱 I’m currently learning **Data Structure Algorithms Problems and developing a Project.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Letusgithub](https://github.com/Letusgithub)
+- 👨‍💻 All of my projects are available at (https://github.com/Letusgithub)
 
-- 💬 Rest **you can ask me personally**
+- 💬 Feel free to **ask me personally** if you have any questions.
 
-- 📫 Email Id: **anandaditya3132002@gmail.com**
+- 📫 You can reach me via Email: **anandaditya3132002@gmail.com**
 
-- ⚡Responsibilities: **I love to help people in their personal and professional life.**
+- ⚡ I love to help people in their personal and professional lives.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
