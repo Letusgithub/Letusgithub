@@ -1,4 +1,4 @@
-![logo](https://github.com/Letusgithub/Letusgithub/blob/main/WhatsApp%20Image%202024-08-11%20at%2016.59.49.jpeg)
+![logo](https://github.com/Letusgithub/Letusgithub/blob/main/WhatsApp%20Image%202024-08-11%20at%2016.26.32.jpeg)
 
 <h1 align="center">Hi 👋, I'm Aditya Anand(Simple Boy)</h1>
 <h3 align="center">A dedicated and devoted Software Developer from India</h3>
